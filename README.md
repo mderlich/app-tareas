@@ -8,4 +8,4 @@ arroja el listado de tareas
 
 // node app.js blablabla
 
-si escribimos cualquier cosa o lo dejamos vacio, la terminal nos indicara que existe "listar"
+si escribimos cualquier cosa o lo dejamos vacio, la terminal nos indicara que debemos tipear "listar"
