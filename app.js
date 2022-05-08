@@ -1,2 +1,2 @@
 // Importamos el modulo
-require('./autos.js');
+require('./funcionesDeTareas.js');
