@@ -10,5 +10,9 @@
     {
         "titulo": "Break",
         "estado": "pendiente"
+    },
+    {
+        "titulo": "Realizar app-tareas",
+        "estado": "terminada"
     }
 ]
